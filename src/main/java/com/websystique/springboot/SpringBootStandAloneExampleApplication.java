@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootStandAloneExampleApplication {
 
 	public static void main(String[] args) {
+		//Start the application
 		SpringApplication.run(SpringBootStandAloneExampleApplication.class, args);
 	}
 }
